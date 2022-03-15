@@ -7,17 +7,17 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🧑‍💻 &nbsp; Self Taught Web Developer.
+- 🧑‍💻 &nbsp; Self Taught Web Developer. ( Thanks to COVID-19 )
 - 🤔 &nbsp; Exploring Web technologies and developing software solutions.
 - 🎓 &nbsp; Studied Electronics & Communication Engineering at BIT Bangalore.
-- 👨🏻‍💻 &nbsp; Freelancer 
+- 👨🏻‍💻 &nbsp; Freelancer.
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanmg007&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan MG" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/-pavanmg007-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pavanmg007/)](https://www.linkedin.com/in/pavanmg007/)
-[![Gmail Badge](https://img.shields.io/badge/-contact.pavanmg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.pavanmg@gmail.com)](mailto:contact.pavanmg@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@pavanmg007-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pavanmg007)](https://twitter.com/pavanmg007)
+[![Gmail Badge](https://img.shields.io/badge/-contact.pavanmg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.pavanmg@gmail.com)](mailto:contact.pavanmg@gmail.com)
 
 
 ## 🛠 &nbsp;Tech Stack
