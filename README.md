@@ -45,8 +45,8 @@
 
 <br/>
 
-## 📈 Stats
+<!-- ## 📈 Stats
 
 ![Pavan MG's github stats](https://github-readme-stats.vercel.app/api?username=pavanmg007&hide=["issues"]&show_icons=true&line_height=30)
 
-![Pavan MG's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmg007&theme=buefy&layout=compact&langs_count=10)
+![Pavan MG's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmg007&theme=buefy&layout=compact&langs_count=10) -->
