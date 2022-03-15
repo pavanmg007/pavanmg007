@@ -7,7 +7,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🧑‍💻 &nbsp; Self Taught Web Developer.
+- 🤔 &nbsp; Exploring Web technologies and developing software solutions.
 - 🎓 &nbsp; Studied Electronics & Communication Engineering at BIT Bangalore.
 - 👨🏻‍💻 &nbsp; Freelancer 
 
