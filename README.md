@@ -39,7 +39,7 @@
   
 
 <br/>
-
+<a href="https://app.daily.dev/pavanmg007"><img src="https://api.daily.dev/devcards/b060cf5be27149f3ab9384a26a659000.png?r=mqx" width="300" alt="Pavan MG's Dev Card"/></a>
 <!-- ## 📈 Stats
 
 ![Pavan MG's github stats](https://github-readme-stats.vercel.app/api?username=pavanmg007&hide=["issues"]&show_icons=true&line_height=30)
