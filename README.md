@@ -13,7 +13,11 @@
 - 👨🏻‍💻 &nbsp; Freelancer.
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanmg007&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan MG" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=pavanmg007&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan MG" />
+</p>
+
+## 🌐 &nbsp;Contact
 
 [![LinkedIn](https://img.shields.io/badge/-pavanmg007-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pavanmg007/)](https://www.linkedin.com/in/pavanmg007/)
 [![Twitter Badge](https://img.shields.io/badge/-@pavanmg007-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pavanmg007)](https://twitter.com/pavanmg007)
@@ -22,24 +26,19 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-<!-- - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) -->
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- 
+<p>
+    <img alt="HTML" title="HTML" height="48" width="auto" src="./assets/html.png">
+    <img alt="CSS" title="CSS" height="48" width="auto" src="./assets/css.png">
+    <img alt="JavaScript" title="JavaScript" height="48" width="auto" src="./assets/javascript.gif">
+    <img alt="React" title="React" height="48" width="auto" src="./assets/React.png">
+    <img alt="Sass" title="Sass" height="48" width="auto" src="./assets/Sass.png">
+    <img alt="Tailwind" title="Tailwind" height="40" width="auto" src="./assets/tailwind.png">
+    <img alt="Bootstrap" title="Bootstrap" height="48" width="auto" src="./assets/Bootstrap.png">
+</p>
 <br/>
 <br/>
-## 📈 Stats
+
+## 📈 &nbsp;Stats
 
 <!-- ![Pavan MG's github stats](https://github-readme-stats.vercel.app/api?username=pavanmg007&hide=["issues"]&show_icons=true&line_height=30) -->
 
