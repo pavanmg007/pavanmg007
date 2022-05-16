@@ -28,7 +28,7 @@
 
 <p>
     <img alt="HTML" title="HTML" height="48" width="auto" src="./assets/html.png">
-    <img alt="CSS" title="CSS" height="48" width="auto" src="./assets/css.png">
+    <img alt="CSS" title="CSS" height="48" width="auto" src="https://img.icons8.com/color/344/css3.png">
     <img alt="JavaScript" title="JavaScript" height="48" width="auto" src="./assets/javascript.gif">
     <img alt="React" title="React" height="48" width="auto" src="./assets/React.png">
     <img alt="Sass" title="Sass" height="48" width="auto" src="./assets/Sass.png">
