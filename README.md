@@ -3,11 +3,11 @@
 </p>
 
 <h3> Hey there👋! I'm Pavan MG.</h2>
-<h2> Currently working as a Freelance Web Developer </h2>
+<h2> Passionate Front-end Developer and JavaScript enthusiast </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🧑‍💻 &nbsp; Self Taught Web Developer. ( Thanks to COVID-19 )
+- 🧑‍💻 &nbsp; Self Taught Frontend Developer.
 - 🤔 &nbsp; Exploring Web technologies and developing software solutions.
 - 🎓 &nbsp; Studied Electronics & Communication Engineering at BIT Bangalore.
 - 👨🏻‍💻 &nbsp; Freelancer.
